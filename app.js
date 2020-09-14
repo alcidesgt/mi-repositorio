@@ -1,1 +1,2 @@
-alert("hola")
+alert("hola");
+var dato1 = 10;
